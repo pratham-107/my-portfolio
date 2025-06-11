@@ -3,22 +3,40 @@ import "../styles/Projects.css";
 
 const projectsData = [
   {
-    title: "Portfolio Website",
-    description: "A clean and professional portfolio built with React and AOS animations.",
-    liveLink: "https://pratham-portfolio.netlify.app/",
-    repoLink: "https://github.com/pratham/portfolio",
+    title: "CMETP",
+    description:
+      "CMETP is a full-stack web application built using the MERN stack that allows college students to create, manage, and track academic events in real-time. The platform features JWT-based authentication, an admin dashboard for event approvals, a calendar-integrated RSVP system, and a clean, responsive UI built with Bootstrap. Designed specifically for student communities, CMETP streamlines campus event coordination and enhances student engagement..",
+    liveLink: "https://cmetp-frontend.vercel.app/",
+    repoLink: "https://github.com/pratham-107/CMETP_frontend",
   },
   {
-    title: "E-commerce Store",
-    description: "A responsive e-commerce site with React, Redux, and payment integration.",
-    liveLink: "https://ecommerce-store.netlify.app/",
-    repoLink: "https://github.com/pratham/ecommerce-store",
+    title: "Note Sharing Platform",
+    description:
+      "NoteShare is a MERN stack web application that enables students to upload, browse, and download academic notes securely. The platform features user authentication, file uploads with metadata, and search/filter options for easy access to relevant material. Designed with Bootstrap for a responsive UI, NoteShare promotes peer-to-peer learning and improves resource sharing across student communities.",
+    liveLink: "https://major-project-frontend-note-sharing.vercel.app/",
+    repoLink:
+      "https://github.com/pratham-107/major-project-frontend-note-sharing",
   },
   {
-    title: "Chat Application",
-    description: "Real-time chat app using React and Socket.io.",
-    liveLink: "https://chat-app-pratham.netlify.app/",
-    repoLink: "https://github.com/pratham/chat-app",
+    title: "Habit Tracker App",
+    description:
+      "HabitSync is a React.js-based web application that helps users build and maintain daily habits through a clean and interactive interface. Users can add, update, and track habits, view streaks and progress, and receive visual feedback for consistency. Designed with Bootstrap and local storage/API integration, HabitSync supports goal-setting with a user-friendly experience tailored for productivity.",
+    liveLink: "https://habit-tracker-app-lime.vercel.app/",
+    repoLink: "https://github.com/pratham-107/habit-tracker-app",
+  },
+  {
+    title: "Popx-App",
+    description:
+      "PopX Auth UI is a responsive login and signup interface built using React.js for the PopX app. It features clean form validation, error handling, and smooth user navigation. Designed with Bootstrap and custom styling, the interface focuses on user experience and accessibility, making onboarding seamless and intuitive.",
+    liveLink: "https://popx-app-pi.vercel.app/",
+    repoLink: "https://github.com/pratham-107/popx-app-signup-login",
+  },
+  {
+    title: "Cognifyz Technology website",
+    description:
+      "Cognifyz Technology Website is a fully responsive static website built using HTML, CSS, and JavaScript to present the company's services, mission, and contact details. The site features smooth scrolling, interactive elements, and a clean, professional layout optimized for both desktop and mobile users.",
+    liveLink: "https://cognifyz-site.vercel.app/",
+    repoLink: "https://github.com/pratham-107/cognifyz-site",
   },
 ];
 
